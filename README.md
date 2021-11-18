@@ -1,4 +1,10 @@
 # Module-13-Mapping-Earthquakes-with-JS-APIs
+
+
+![challenge_Result](https://user-images.githubusercontent.com/71470238/142497406-796e6a92-6d1a-4e8a-a5c7-7b8c41cfc4bf.PNG)
+
+
+
 Traverse and retrieve GeoJSON data to populate an interactive geographical map about earthquakes and tectonic plates using JavaScript,leaflet.js libraries as well as Mapbox API.
 
 ### Project Purpose
